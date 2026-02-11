@@ -1,6 +1,5 @@
-小爱音箱刷入小智AI详细教程（https://youtu.be/JKyJdnR1uRc）
-[![](https://youtu.be/JKyJdnR1uRc)]
----
+[小爱音箱刷入小智AI详细教程]（https://youtu.be/JKyJdnR1uRc）
+
 # Open-XiaoAI
 
 让小爱音箱「听见你的声音」，解锁无限可能。
