@@ -1,5 +1,5 @@
 
-👉 [建议跟着小爱音箱刷入小智AI详细教程搭建](https://youtu.be/JKyJdnR1uRc)
+👉 [视频教程入口](https://youtu.be/JKyJdnR1uRc)
 
 ---
 
